@@ -10,4 +10,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### `yarn add react-router-dom `
 
-Installing react router dom
+Installing react router
